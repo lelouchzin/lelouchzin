@@ -1,4 +1,4 @@
-<h2 align="center">Hello! My name is Cauã da Fonseca</h2>
+<h2 align="center">Hello! My name is </h2>
 
 ---
 
@@ -23,11 +23,3 @@
 
 ### 📫 How to Reach Me
 
-<div align="center">
-  <a href="https://www.instagram.com/cauafonsec" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/caua-da-fonseca-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
