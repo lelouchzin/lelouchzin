@@ -9,6 +9,3 @@
 - 🌎 Based in Brazil.
 
 ---
-
-### 📫 How to Reach Me
-
